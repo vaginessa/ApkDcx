@@ -38,8 +38,8 @@ sistema opertaivo
 * https://www.java.com/es/download/
 
 # Instalación 🔧
-Pasos para usar la aplicación MsImAOc
-- Descargar MsImAOc
+Pasos para usar la aplicación
+- Descargar
 - [x] https://github.com/Pericena/ApkDcx
 - [x] https://lpericena.blogspot.com/2018/11/ApkDcx.html
 - [ ] https://www.java.com/es/download/
