@@ -53,16 +53,7 @@ ApkªDcx
 Los paquetes de aplicación de Android (APK) es el formato usado para distribuir e instalar aplicaciónes en el Sistema operativo para móviles Android de Google. Hay muchas razones por las cuales querrías decompilar un APK, por ejemplo para aprender como funciona una aplicación, para incrementar la seguridad y complejidad de tu código,para robar el código fuente de aplicaciones de tercero ... es decir, para analizarlo ... y otras.
 Para decompilar un APK, en este artículo usaremos ApkªDcx, la herramienta de lineas de comando e interfáz gráfica (GUI) para obtener el código fuente de archivos DEX y APK
 
-https://lpericena.blogspot.com/2018/11/MsImAOc.html
-[![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_18.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
 
-[![Video](https://www.youtube.com/watch?v=d5qXfiOgnSY)](https://github.com/Pericena/MsImAOc/blob/master/Video/MsImAOc%20ocultar%20archivos%20comprimido%20en%20una%20imagen%20L7C.mp4
-)
-
-
-## Abrimos nuestro programa nuevamente 
-https://lpericena.blogspot.com/2018/11/MsImAOc.html
-[![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_14.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
 
 * La carpeta aplicación está el programa.
 * La carpeta Código encontraras el código fuente para hacerle mejoras a tu gusto y poder contribuir.
