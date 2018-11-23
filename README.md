@@ -26,6 +26,8 @@ Podemos mejorar una aplicación ya que tendremos el código fuente, podríamos i
 * Debe tener instalado el programa JAVA. 
 * Descargar nueva versión https://www.java.com/es/download/
 
+# Descargar
+https://github.com/Pericena/ApkDcx/blob/master/Descargar/ApkDcx.zip
 
 # Instrucción 🚀
 sistema opertaivo 
@@ -43,52 +45,6 @@ Pasos para usar la aplicación MsImAOc
 - [ ] https://www.java.com/es/download/
 
 ## Tabla de Contenido
-1. Paso 1
-https://lpericena.blogspot.com/2018/11/MsImAOc.html
-[![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_1.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
-Introducir en el teclado “Windows + E “o dirigirse a una carpeta Este Equipo Clic a propiedades de sistema.
-
-2. Paso 2
-Clic a Configuración avanzada de sistema 
-
-3. Paso 3
-Clic a Variable e entorno .
-
-4. Paso 4
-https://lpericena.blogspot.com/2018/11/MsImAOc.html
-[![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_9.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
-
-Dirigirse a PATH damos clic a la opción editar.
-
-5. Paso 5
-Nos dirigimos nuevamente a Este equipo disco local donde se instalan los programas en mi caso es el disco local C: y busca la carpeta archivos de programa
-
-
-6. Paso 6
-Luego buscamos la carpeta WinRAR 
-
-7. Paso 7
-https://lpericena.blogspot.com/2018/11/MsImAOc.html
-[![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_8.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
-
-Copiamos la ruta C:\Program Files\WinRAR
-
-8. Paso 8
-Clic derecho Copiar o también control + c
-
-9. Paso 9
-Nos dirigimos nuevamente a la venta entorno de variables y pegamos la ruta con control + v y aceptar
-
-
-10. Paso 10
-Pegar C:\Program Files\WinRAR
-
-
-11. Paso 11
-Aceptar
-
-12. Paso 12
-Aceptar
 
 # Ejecutando las pruebas ⚙️
 
@@ -116,27 +72,6 @@ https://lpericena.blogspot.com/2018/11/MsImAOc.html
 Ingresamos a la carpeta aplicación para darle el uso a nuestro programa
 
 
-## Pasos a seguir:
-* ->Debe instalar WinRAR ingrese la tecla "i".
-* ->Debe ingresar el nombre de la imagen junto con la extensión.
-* ->Debe ingresar el nombre del archivo WinRAR junto con la extensión.
-* En el archivo WinRAR debe guardar toda la información q desea ocultar.
-* ->Debe ingresar el nuevo nombre de la imagen junto con la extensión.
-* En la nueva imagen estará la información oculta , solo se puede ver si se abre con el programa WinRAR
-* Ejemplo :[imagen.png] + [Archivo.rar] = [imagen2.png]
-
-
-
-
-* Se creara una carpeta nueva con el nombre ArchivosImag
-* En la carpeta ArchivoImag se guardara las imágenes comprimidas.
-
-## Para poder visualizarlo tendremos que abrir con el programa WinRAR
-https://lpericena.blogspot.com/2018/11/MsImAOc.html
-[![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_25.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
-
-https://lpericena.blogspot.com/2018/11/MsImAOc.html
-[![Watch the video](https://github.com/Pericena/MsImAOc/blob/master/Imagenes/Screenshot_30.png)](https://lpericena.blogspot.com/2018/11/MsImAOc.html)
 
 
 # Idioma
