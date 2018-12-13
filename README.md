@@ -14,9 +14,6 @@ https://lpericena.blogspot.com/2018/11/ApkDcx.html
   <a href="https://github.com/Pericena/ApkDcx/tree/master/Codigo"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Código"></a>
   <a href="https://github.com/Pericena/ApkDcx/tree/master/Aplicaci%C3%B3n"><img src="https://img.shields.io/npm/dm/standard.svg" alt="Downloads"></a>
 </p>
-
-
-Ocultar archivos comprimidos en una imagen
 @Pericena :+1: Autor: Luishiño Pericena Ch :shipit:
 
 Es una programa desarrollado en el lenguaje Bat.
@@ -26,8 +23,7 @@ Podemos mejorar una aplicación ya que tendremos el código fuente, podríamos i
 * Debe tener instalado el programa JAVA. 
 * Descargar nueva versión https://www.java.com/es/download/
 
-# Descargar
-https://github.com/Pericena/ApkDcx/blob/master/Descargar/ApkDcx.zip
+# Descargar https://github.com/Pericena/ApkDcx/blob/master/Descargar/ApkDcx.zip
 
 # Instrucción 🚀
 sistema opertaivo 
